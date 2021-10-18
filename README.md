@@ -6,4 +6,4 @@ Here's the [**Youtube playlist**](https://youtube.com/playlist?list=PLJR10EXrBaA
 
 | Week   | Content                | Lecture Materials | Seminar Materials | Home Assignment | Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
-| 01, 11.10-17.10    | Definition of Probability - 1  | [Lecture01 recording](https://youtu.be/m0ACA-pHHhE), [Lecture01 slides](https://github.com/girafe-ai/msai-probability/blob/master/Lecture_Slides/Lecture01/Lecture01.pdf) | Seminar 01 slides, [Seminar01_Recording](https://youtu.be/1hdNvWZ027M) | TBA |  TBA |
+| 01, 11.10-17.10    | Definition of Probability - 1  | [Lecture01 recording](https://youtu.be/m0ACA-pHHhE), [Lecture01 slides](https://github.com/girafe-ai/msai-probability/blob/master/Lecture_Slides/Lecture01/Lecture01.pdf) | [Seminar01 recording](https://youtu.be/1hdNvWZ027M), Seminar 01 slides | TBA |  TBA |
