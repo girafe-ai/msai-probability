@@ -1,6 +1,6 @@
 # MSAI Probability Syllabus
 
-For this course, we'll be closely following the excellent textbook **_"Introduction to Probability"_** by Joseph K. Blitzstein and Jessica Hwang (get it [here](https://yadi.sk/i/akh36zxEw7EUyQ)), but we won't be limited by its contents.
+For this course, we'll be closely following the excellent textbook **_"Introduction to Probability"_** by Joseph K. Blitzstein and Jessica Hwang (get it [here](https://ftp.xxcpeter.tech/Probability%20and%20Statistics/Books/Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang-Introduction%20to%20Probability.pdf) or [here](https://yadi.sk/i/akh36zxEw7EUyQ)), but we won't be limited by its contents.
 
 Below I tried to mark the key points (that is, obligatory to know) of the program **in bold**
 
