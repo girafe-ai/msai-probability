@@ -1,6 +1,6 @@
 # MSAI Probability Theory – Fall 2021, MIPT
 
-See the [Syllabus](https://github.com/girafe-ai/msai-probability/blob/master/Syllabus.md) of the course
+See the [**Syllabus**](https://github.com/girafe-ai/msai-probability/blob/master/Syllabus.md) of the course
 
 Here's the [**Youtube playlist**](https://youtube.com/playlist?list=PLJR10EXrBaAu2GbqLvxt30bhtRGFjjii9) with the lectures and the seminars' recordings. Links to specifics lectures and seminard are in the table below.
 
