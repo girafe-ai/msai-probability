@@ -1,6 +1,6 @@
 # MSAI Probability Syllabus
 
-For this course, we'll be closely following the excellent textbook **_"Introduction to Probability"_** by [Joseph K. Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) and Jessica Hwang (get it [**here**](https://ftp.xxcpeter.tech/Probability%20and%20Statistics/Books/Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang-Introduction%20to%20Probability.pdf)), but we won't be limited by its contents.
+For this course, we'll be closely following the excellent textbook **_"Introduction to Probability"_** (get it [**here**](https://ftp.xxcpeter.tech/Probability%20and%20Statistics/Books/Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang-Introduction%20to%20Probability.pdf)) by [Joseph K. Blitzstein](https://statistics.fas.harvard.edu/people/joseph-k-blitzstein) and Jessica Hwang , but we won't be limited by its contents.
 
 If it feels that our syllabus and this textbook are a bit too advanced for you, or you're looking for more nice visualisations, see the excellent book **_"Introduction to Probability for Data Science"_** by [Stanley H. Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html) fully [**available online**](https://probability4datascience.com) for free. Big thank to Prof. Chan!
 
