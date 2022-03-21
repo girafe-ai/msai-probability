@@ -1,3 +1,6 @@
+## Deprecated, please, refer to [msai-statistics](https://github.com/girafe-ai/msai-statistics) repository
+
+
 # MSAI Probability Theory – Fall 2021, MIPT
 
 See the [**Syllabus**](https://github.com/girafe-ai/msai-probability/blob/master/Syllabus.md) of the course
