@@ -2,7 +2,7 @@
 
 See the [**Syllabus**](https://github.com/girafe-ai/msai-probability/blob/master/Syllabus.md) of the course
 
-Here's the [**Youtube playlist**](https://youtube.com/playlist?list=PLJR10EXrBaAu2GbqLvxt30bhtRGFjjii9) with the lectures and the seminars' recordings. Links to specifics lectures and seminard are in the table below.
+Here's the [**Youtube playlist**](https://youtube.com/playlist?list=PLJR10EXrBaAv7jAktERZzEAJI7RoeCI72) with the lectures and the seminars' recordings. Links to specifics lectures and seminars are in the table below.
 
 | Week   | Content                | Lecture Materials | Seminar Materials | Graded Home Assignment | Deadline |
 |:------:|:-----------------------|:-------:|:-------:|:-------------------:|:------------------:|
